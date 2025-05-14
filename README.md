@@ -1,7 +1,7 @@
 # Hello there, I'm Devyansh Kalra (Flader)
 
 🚀 Full Stack Developer | Product Strategist | 📬 devyansh1kalra@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/devyansh-kalra-41b75ab8/) | 💻 [GitHub](https://github.com/DevyanshKalra)
+🔗 [LinkedIn](https://www.linkedin.com/in/devyansh-kalra-41b75ab8/) 
 
 ---
 
