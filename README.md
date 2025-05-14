@@ -14,7 +14,7 @@ Developer in love with System Architecture & Product Strategy. Architected syste
 ## 🛠️ Tech Stack
 
 **Languages:**  
-TypeScript, JavaScript (ES6), Python,
+TypeScript, JavaScript (ES6), Python
 
 **Frameworks & Libraries:**  
 ReactJS, NextJS, FastAPI, NodeJS, ExpressJS, TailwindCSS, MaterialUI, ContextAPI, React Query, Tanstack Query, Redux Toolkit (RTK)
