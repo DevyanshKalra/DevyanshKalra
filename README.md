@@ -7,7 +7,7 @@
 
 ## About Me
 
-Systems Architect & Product Strategist. Architected systems in US healthcare & E-Commerce. Driving product vision through technical evolution, maximising value to the customer.
+Developer in love with System Architecture & Product Strategy. Architected systems in US healthcare & E-Commerce. Driving product vision through technical evolution, maximising value to the customer.
 
 ---
 
