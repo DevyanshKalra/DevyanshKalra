@@ -60,13 +60,6 @@ Git, GitHub, GitLab, MongoDB, MySQL, PostgreSQL, Aurora, EC2, JIRA (REST + Autom
 
 ---
 
-## 📊 GitHub Stats
-
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevyanshKalra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevyanshKalra&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 
