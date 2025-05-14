@@ -1,4 +1,4 @@
-# Hello there, I'm Devyansh Kalra
+# Hello there, I'm Devyansh Kalra (Flader)
 
 🚀 Full Stack Developer | Product Strategist | 📬 devyansh1kalra@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/devyansh-kalra-41b75ab8/) | 💻 [GitHub](https://github.com/DevyanshKalra)
@@ -7,7 +7,7 @@
 
 ## About Me
 
-Systems Architect & Product Strategist. Architected complex, event-driven systems in US healthcare; powering personalisation, scalability, and monetisation across E-Commerce. Drives product vision through technical evolution, maximising value to the customer.
+Systems Architect & Product Strategist. Architected systems in US healthcare & E-Commerce. Driving product vision through technical evolution, maximising value to the customer.
 
 ---
 
