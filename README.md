@@ -53,8 +53,8 @@ Git, GitHub, GitLab, MongoDB, MySQL, PostgreSQL, Aurora, EC2, JIRA (REST + Autom
 
 ## 🤝 Community Involvement
 
-### **Google Developer Student Clubs - GTBIT**
-**Web Development Technical Lead** *(Aug 2023 - Aug 2024)*
+### **Google Developer Clubs - GTBIT**
+**Technical Lead - Web** *(Aug 2023 - Aug 2024)*
 - Mentored peers in modern web development practices and architecture.
 - Led student projects and workshops to promote hands-on technical learning.
 
